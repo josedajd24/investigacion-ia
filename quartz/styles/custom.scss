@@ -1,3 +1,24 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Ancho máximo del contenido para texto académico
+.page-header {
+  max-width: 800px;
+}
+
+article {
+  max-width: 800px;
+}
+
+// Tabla del dashboard de estado
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+// Destacar la pregunta de investigación (blockquote)
+blockquote {
+  border-left: 4px solid var(--secondary);
+  padding: 0.5rem 1rem;
+  background: var(--highlight);
+  border-radius: 0 4px 4px 0;
+}
