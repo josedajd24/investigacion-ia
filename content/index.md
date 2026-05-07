@@ -4,7 +4,7 @@ title: Inicio
 
 # [José Daniel Niño]
 
-Investigador en Inteligencia Artificial | [UNiversidad de Antioquia Pregrado Periodismo]
+Investigador en Inteligencia Artificial | [Universidad de Antioquia Pregrado Periodismo]
 
 **Tema de investigación:** [Investigación IA Gen En el proceso estudiante-profesor]
 
