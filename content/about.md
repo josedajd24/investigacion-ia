@@ -24,4 +24,4 @@ Esta investigación se desarrolla como parte de [contexto: tesis, proyecto de cu
 
 ---
 
-*Para asesores: consulta [[investigacion]] para el planteamiento completo y [[avances/index]] para el estado actual.*
+_Para asesores: consulta [[investigacion]] para el planteamiento completo y [[avances/index]] para el estado actual._

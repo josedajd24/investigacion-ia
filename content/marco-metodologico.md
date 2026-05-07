@@ -22,4 +22,4 @@ title: Marco Metodológico
 
 ---
 
-*Relacionado con: [[investigacion]] | [[notas/index]]*
+_Relacionado con: [[investigacion]] | [[notas/index]]_

@@ -28,4 +28,4 @@ title: Investigación
 
 ---
 
-*Secciones relacionadas: [[marco-teorico]] | [[marco-metodologico]]*
+_Secciones relacionadas: [[marco-teorico]] | [[marco-metodologico]]_

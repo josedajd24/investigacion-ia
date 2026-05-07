@@ -12,14 +12,14 @@ Investigador en Inteligencia Artificial | [Tu institución]
 
 ## 📊 Estado de la investigación
 
-| Sección | Estado |
-|---|---|
+| Sección                    | Estado       |
+| -------------------------- | ------------ |
 | Planteamiento del problema | 🔴 Pendiente |
-| Justificación | 🔴 Pendiente |
-| Pregunta de investigación | 🔴 Pendiente |
-| Marco Teórico | 🔴 Pendiente |
-| Marco Metodológico | 🔴 Pendiente |
-| Referencias | 🔴 Pendiente |
+| Justificación              | 🔴 Pendiente |
+| Pregunta de investigación  | 🔴 Pendiente |
+| Marco Teórico              | 🔴 Pendiente |
+| Marco Metodológico         | 🔴 Pendiente |
+| Referencias                | 🔴 Pendiente |
 
 **Fuentes bibliográficas recopiladas:** 0  
 **Entradas en avances:** 0

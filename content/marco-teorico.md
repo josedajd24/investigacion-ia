@@ -18,4 +18,4 @@ Fuentes: [[referencias/index|ver bibliografía]]
 
 ---
 
-*Relacionado con: [[investigacion]] | [[referencias/index]]*
+_Relacionado con: [[investigacion]] | [[referencias/index]]_
