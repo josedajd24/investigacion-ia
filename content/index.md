@@ -2,11 +2,11 @@
 title: Inicio
 ---
 
-# [Tu nombre aquí]
+# [José Daniel Niño]
 
-Investigador en Inteligencia Artificial | [Tu institución]
+Investigador en Inteligencia Artificial | [UNiversidad de Antioquia Pregrado Periodismo]
 
-**Tema de investigación:** [Una oración describiendo tu tema]
+**Tema de investigación:** [Investigación IA Gen En el proceso estudiante-profesor]
 
 ---
 

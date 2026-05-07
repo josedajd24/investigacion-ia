@@ -1,5 +1,7 @@
 ---
 title: Artículos
+tags:
+aliases:
 ---
 
 # Artículos
