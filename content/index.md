@@ -14,12 +14,12 @@ Investigador en Inteligencia Artificial | [Universidad de Antioquia Pregrado Per
 
 | Sección                    | Estado       |
 | -------------------------- | ------------ |
-| Planteamiento del problema | 🔴 Pendiente |
-| Justificación              | 🔴 Pendiente |
-| Pregunta de investigación  | 🔴 Pendiente |
-| Marco Teórico              | 🔴 Pendiente |
-| Marco Metodológico         | 🔴 Pendiente |
-| Referencias                | 🔴 Pendiente |
+| Planteamiento del problema | 🟢 Completado |
+| Justificación              | 🟢 Completado |
+| Pregunta de investigación  | 🟢 Completado |
+| Marco Teórico              | 🟡 En Curso   |
+| Marco Metodológico         | 🟡 En Curso   |
+| Referencias                | 🟡 En Curso   |
 
 **Fuentes bibliográficas recopiladas:** 0  
 **Entradas en avances:** 0
