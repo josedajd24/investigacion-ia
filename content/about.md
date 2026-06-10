@@ -4,18 +4,29 @@ title: Acerca
 
 # Acerca
 
-## [Tu nombre completo]
+## José Daniel Niño
 
-[Tu institución/universidad]  
-[Tu programa o departamento]  
-[Tu semestre o año en el programa]
+Universidad de Antioquia  
+Facultad de Comunicaciones  
+Pregrado
 
 ## Investigación
 
-**Tema:** [Tema de investigación]  
-**Asesor(es):** [Nombre del asesor principal]
+**Tema:** Flujos de trabajo con inteligencia artificial generativa como mediación comunicativa en procesos de investigación, escritura académica y enseñanza-aprendizaje en estudiantes de la Facultad de Comunicaciones de la Universidad de Antioquia.  
+**Asesor(es):** Por definir
 
-Esta investigación se desarrolla como parte de [contexto: tesis, proyecto de curso, etc.].
+Esta investigación se desarrolla como Trabajo de Grado en el programa de Comunicaciones. El proyecto busca diseñar, implementar y analizar flujos de trabajo con IA generativa para apoyar procesos académicos y comunicativos, con énfasis en autoría, verificación, transparencia, apropiación tecnológica y relación profesor-estudiante.
+
+## Producto esperado
+
+Una guía práctica de flujos de trabajo con inteligencia artificial generativa para estudiantes de Comunicaciones, orientada a:
+
+- investigación inicial;
+- lectura crítica de fuentes;
+- escritura académica;
+- producción comunicativa;
+- declaración transparente del uso de IA;
+- mediación profesor-estudiante.
 
 ## Contacto
 
@@ -24,4 +35,4 @@ Esta investigación se desarrolla como parte de [contexto: tesis, proyecto de cu
 
 ---
 
-_Para asesores: consulta [[investigacion]] para el planteamiento completo y [[avances/index]] para el estado actual._
+_Para asesores: consulta [[investigacion]] para el planteamiento completo y [[marco-metodologico]] para el diseño metodológico actualizado._

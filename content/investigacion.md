@@ -4,32 +4,61 @@ title: Investigación
 
 # Investigación
 
+## Tema actualizado
+
+**Flujos de trabajo con inteligencia artificial generativa como mediación comunicativa en procesos de investigación, escritura académica y enseñanza-aprendizaje en estudiantes de la Facultad de Comunicaciones de la Universidad de Antioquia.**
+
 ## Planteamiento del problema
 
-La irrupción masiva de la Inteligencia Artificial Generativa (IAG) desde 2023 ha transformado drásticamente la educación superior. Herramientas como ChatGPT, Claude y chatbots institucionales (como LIA o MÍA en el contexto colombiano) redefinen los flujos tradicionales de enseñanza y aprendizaje. Sin embargo, esta transformación no es homogénea y genera una **brecha profunda de acceso a la información y capacidades críticas**.
+La inteligencia artificial generativa se ha incorporado rápidamente a los procesos académicos universitarios. Herramientas como ChatGPT, Gemini, Copilot, Claude u otros asistentes conversacionales ya son utilizadas por estudiantes para buscar información, formular ideas, resumir textos, escribir borradores, corregir estilo, generar preguntas, preparar exposiciones y producir contenidos comunicativos. Sin embargo, este uso suele darse de manera informal, desigual y poco sistematizada.
 
-Por un lado, los estudiantes acceden a la información con una rapidez inédita, pero muchas veces carecen de la formación crítica para evaluar la veracidad, el sesgo o las limitaciones epistémicas de los modelos de lenguaje. Por otro lado, los docentes enfrentan el desafío de reestructurar la evaluación pedagógica frente a tensiones de integridad académica, a menudo sin contar con capacitación institucional adecuada. En el contexto de universidades colombianas (como la Universidad de Antioquia), esto amenaza con ensanchar la brecha de aprendizaje digital, favoreciendo a quienes dominan estas herramientas de forma avanzada y marginando a quienes las emplean sin criterio o quedan excluidos por falta de políticas de mediación pedagógica claras.
+En el contexto de la Facultad de Comunicaciones, el problema no consiste únicamente en saber si los estudiantes usan o no inteligencia artificial generativa. El problema comunicativo central está en que estas herramientas empiezan a mediar la producción académica, la escritura, la investigación y la relación profesor-estudiante sin que siempre existan criterios compartidos sobre autoría, verificación de información, transparencia, uso ético, formulación de prompts y límites pedagógicos.
+
+Esta situación produce tensiones en varios niveles. Por un lado, la IA generativa puede fortalecer procesos de investigación, escritura y producción comunicativa si se usa de manera crítica y acompañada. Por otro lado, puede generar dependencia, circulación de información no verificada, citas falsas, debilitamiento del pensamiento crítico o desconfianza entre docentes y estudiantes frente a la autenticidad de los trabajos académicos.
+
+Desde el campo de las Comunicaciones, la IA generativa puede entenderse como una **mediación comunicativa**: no es solo una herramienta técnica, sino un actor que interviene en la forma en que los estudiantes preguntan, escriben, verifican, editan, argumentan, producen mensajes y comunican sus procesos de aprendizaje. Por eso, se hace necesario diseñar y analizar flujos de trabajo que orienten un uso crítico, transparente y pedagógico de estas herramientas en procesos de investigación y enseñanza-aprendizaje.
 
 ## Justificación
 
-Investigar este fenómeno es indispensable para que la Inteligencia Artificial actúe como un motor de inclusión y democratización del conocimiento, en lugar de un factor de exclusión o automatización del facilismo. Desde una perspectiva del periodismo y la comunicación educativa, esta investigación aportará un análisis crítico de cómo la IAG reconfigura la transferencia de información en el aula. 
+Esta investigación es pertinente porque aborda un fenómeno actual que atraviesa la educación superior, la comunicación académica y la producción de conocimiento. En lugar de limitarse a estudiar percepciones generales sobre la IA generativa, el proyecto propone diseñar, implementar y analizar **flujos de trabajo concretos** que ayuden a estudiantes de Comunicaciones a usar estas herramientas de manera crítica, ética y verificable.
 
-Entender las dinámicas estudiante-docente y las formas en que la IAG media entre ellos permitirá diseñar estrategias pedagógicas y lineamientos éticos que garanticen un acceso equitativo, transparente y reflexivo a la información en las aulas universitarias públicas.
+El trabajo aporta al campo de Comunicaciones porque permite estudiar la IA generativa como mediación en la producción y circulación de información, en la escritura académica, en la relación profesor-estudiante y en la apropiación tecnológica. Además, puede generar un producto aplicado: una guía o modelo de flujos de trabajo con IA generativa para procesos de investigación, escritura y comunicación académica.
 
 ## Pregunta de investigación
 
-> ¿Cómo influye el uso de herramientas de Inteligencia Artificial Generativa en la relación pedagógica estudiante-docente y en el cierre de la brecha de acceso crítico a la información en la educación superior de Medellín?
+**¿Cómo pueden los flujos de trabajo con inteligencia artificial generativa fortalecer los procesos de investigación, escritura académica y mediación comunicativa entre estudiantes y docentes de la Facultad de Comunicaciones de la Universidad de Antioquia?**
+
+## Preguntas complementarias
+
+1. ¿Qué usos, percepciones y tensiones tienen los estudiantes de la Facultad de Comunicaciones frente a la inteligencia artificial generativa en sus procesos académicos?
+2. ¿Qué criterios de autoría, verificación, transparencia y ética deben orientar el uso de IA generativa en trabajos universitarios?
+3. ¿Cómo se apropian los estudiantes de flujos de trabajo con IA para investigar, leer, escribir y producir contenidos comunicativos?
+4. ¿Qué aportes y limitaciones emergen al implementar una experiencia piloto de flujos de trabajo con IA generativa?
 
 ## Objetivo general
 
-Analizar el impacto y la integración de las tecnologías de IA Generativa en la interacción estudiante-docente y en los procesos de acceso a la información en universidades de Medellín, con el fin de proponer recomendaciones metodológicas que promuevan una apropiación crítica y equitativa de estas herramientas.
+**Diseñar, implementar y analizar flujos de trabajo con inteligencia artificial generativa orientados a fortalecer procesos de investigación, escritura académica y mediación comunicativa entre estudiantes y docentes de la Facultad de Comunicaciones de la Universidad de Antioquia.**
 
 ## Objetivos específicos
 
-1. **Caracterizar** los niveles de adopción, usos reales y percepciones de estudiantes y docentes sobre la IA Generativa en el aula universitaria colombiana.
-2. **Identificar** las tensiones éticas y metodológicas (especialmente brecha digital cognitiva, integridad académica y rol de mediación del docente) surgidas a partir de esta integración.
-3. **Formular** lineamientos y recomendaciones para la docencia universitaria que ayuden a cerrar la brecha de información a través de una interacción reflexiva con la IAG.
+1. Identificar los usos, percepciones y necesidades de estudiantes de la Facultad de Comunicaciones frente a la inteligencia artificial generativa en procesos académicos e investigativos.
+2. Diseñar flujos de trabajo con IA generativa para apoyar actividades de investigación, búsqueda de información, lectura crítica, escritura académica y producción comunicativa.
+3. Implementar una experiencia piloto con estudiantes para probar los flujos de trabajo diseñados.
+4. Analizar los aportes, limitaciones y tensiones comunicativas que emergen durante el uso de estos flujos, especialmente en relación con autoría, verificación, ética, confianza y apropiación tecnológica.
+5. Proponer orientaciones para el uso crítico, transparente y pedagógico de IA generativa en procesos de enseñanza-aprendizaje dentro de la Facultad.
+
+## Producto esperado
+
+Además del documento académico, el proyecto puede entregar una **guía práctica de flujos de trabajo con IA generativa para estudiantes de Comunicaciones**, enfocada en:
+
+- investigación inicial;
+- búsqueda y verificación de fuentes;
+- lectura crítica;
+- escritura académica;
+- producción comunicativa;
+- declaración transparente del uso de IA;
+- relación profesor-estudiante y criterios de evaluación.
 
 ---
 
-_Secciones relacionadas: [[marco-teorico]] | [[marco-metodologico]]_
+_Secciones relacionadas: [[marco-teorico]] | [[marco-metodologico]] | [[estado-del-arte]] | [[notas/flujos-trabajo-ia-comunicaciones]]_
