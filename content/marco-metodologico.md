@@ -6,7 +6,7 @@ title: Marco Metodológico
 
 ## Enfoque de investigación
 
-Esta investigación se desarrollará desde un **enfoque cualitativo aplicado**, con apoyo de una encuesta diagnóstica breve. La elección responde a que el interés principal no es medir estadísticamente el impacto de la inteligencia artificial generativa, sino comprender cómo estudiantes universitarios de la Facultad de Comunicaciones se apropian de flujos de trabajo con IA para investigar, escribir, verificar información, producir contenidos y relacionarse académicamente con sus docentes.
+Esta investigación se desarrollará desde un **enfoque cualitativo aplicado**, con apoyo de una encuesta diagnóstica breve. La elección responde a que el interés principal no es medir estadísticamente el impacto de la inteligencia artificial generativa, sino comprender cómo compañeros de trabajo de grado de la Facultad de Comunicaciones se apropian de flujos de trabajo con IA para investigar, escribir, verificar información, organizar sus avances y comunicar públicamente parte de su proceso mediante Obsidian, Quartz y GitHub Pages.
 
 El enfoque cualitativo permite analizar percepciones, prácticas, tensiones, sentidos y formas de apropiación tecnológica. El componente aplicado aparece porque el proyecto no solo describe usos de IA, sino que propone **diseñar e implementar una experiencia piloto** de flujos de trabajo con inteligencia artificial generativa.
 
@@ -18,30 +18,32 @@ Es **exploratorio** porque el uso de IA generativa en procesos académicos unive
 
 Es **descriptivo** porque busca caracterizar cómo los estudiantes usan IA, qué dificultades encuentran, qué tensiones emergen y qué utilidad tienen los flujos de trabajo diseñados.
 
-Es **aplicado** porque busca producir una guía o modelo de flujos de trabajo que pueda ser útil para estudiantes y docentes de la Facultad.
+Es **aplicado** porque busca producir un kit o modelo de flujos de trabajo que pueda ser útil para estudiantes de trabajo de grado: organización en Obsidian, uso crítico de IA, verificación de fuentes y publicación de avances seleccionados en Quartz.
 
 ## Diseño metodológico
 
-Se propone un **estudio cualitativo exploratorio con diseño e implementación piloto de flujos de trabajo con IA generativa**. También puede presentarse como una versión sencilla de **investigación basada en diseño**, en la medida en que se crea una propuesta, se prueba con participantes y se ajusta a partir del análisis de la experiencia.
+Se propone un **estudio cualitativo exploratorio con diseño e implementación piloto de flujos de trabajo con IA generativa y publicación académica en Obsidian/Quartz**. También puede presentarse como una versión sencilla de **investigación basada en diseño**, en la medida en que se crea una propuesta, se prueba con participantes y se ajusta a partir del análisis de la experiencia.
 
 El diseño tendrá cuatro fases:
 
 1. Diagnóstico de usos y necesidades.
 2. Diseño de flujos de trabajo con IA generativa.
-3. Implementación de una experiencia piloto o taller.
-4. Análisis de resultados y formulación de orientaciones.
+3. Diseño de una estructura base de Obsidian/Quartz para trabajos de grado.
+4. Implementación de una experiencia piloto o taller con compañeros de trabajo de grado.
+5. Análisis de resultados y formulación de orientaciones.
 
 ## Contexto y participantes
 
-El estudio se realizará con estudiantes de la **Facultad de Comunicaciones de la Universidad de Antioquia**.
+El estudio se realizará con **compañeros de trabajo de grado de la Facultad de Comunicaciones de la Universidad de Antioquia**.
 
 Para que sea viable en un semestre, se recomienda una muestra intencional pequeña:
 
-- entre **8 y 15 estudiantes** participantes;
-- preferiblemente estudiantes que estén realizando trabajos de investigación, escritura académica, producción de contenidos o cursos con componentes de lectura y escritura;
-- opcionalmente, **1 o 2 docentes** entrevistados para recoger su perspectiva sobre IA, evaluación, autoría y relación profesor-estudiante.
+- entre **4 y 6 compañeros de trabajo de grado** como muestra principal;
+- máximo **8 participantes**, si hay buena disponibilidad;
+- opcionalmente, **1 o 2 docentes/asesores** entrevistados para validar la utilidad de la propuesta;
+- participantes que estén desarrollando anteproyecto, trabajo de grado, estado del arte, marco teórico o escritura académica.
 
-La muestra será intencional porque se buscarán participantes que tengan interés o experiencia inicial con herramientas de IA generativa, aunque no sean usuarios expertos.
+La muestra será **intencional por conveniencia**. Esta decisión es pertinente porque los participantes tienen una necesidad real de organizar, escribir y comunicar sus investigaciones, y porque el semestre exige un trabajo de campo manejable.
 
 ## Unidad de análisis
 
@@ -58,8 +60,10 @@ Estos flujos pueden incluir:
 - revisión de claridad, tono y estructura;
 - verificación de datos y citas;
 - producción de contenidos comunicativos;
+- organización del trabajo de grado en Obsidian;
+- publicación de avances seleccionados en Quartz/GitHub Pages;
 - declaración transparente del uso de IA;
-- retroalimentación entre docente y estudiante.
+- retroalimentación entre pares, docentes y asesores.
 
 ## Técnicas de recolección de información
 
@@ -122,16 +126,21 @@ A partir del diagnóstico y del estado del arte, se diseñarán entre **3 y 4 fl
 
 ### 3. Taller o experiencia piloto
 
-Se realizará una experiencia piloto con estudiantes. Puede ser un taller de 2 horas o dos sesiones cortas.
+Se realizará una experiencia piloto con compañeros de trabajo de grado. Puede organizarse como dos talleres:
+
+- **Taller 1:** flujos de trabajo con IA para investigación, lectura crítica y escritura académica.
+- **Taller 2:** organización del trabajo de grado en Obsidian y publicación de avances seleccionados con Quartz/GitHub Pages.
 
 Actividades posibles:
 
 1. Presentación breve sobre uso crítico de IA generativa.
 2. Explicación de los flujos de trabajo.
-3. Ejercicio práctico de investigación, lectura o escritura con IA.
-4. Registro de prompts, decisiones y verificaciones.
-5. Socialización de dificultades y aprendizajes.
-6. Aplicación de encuesta final o grupo focal.
+3. Configuración de una estructura base de Obsidian para cada participante.
+4. Ejercicio práctico de investigación, lectura o escritura con IA.
+5. Registro de prompts, decisiones y verificaciones.
+6. Creación o prototipo de página Quartz para publicar el proceso.
+7. Socialización de dificultades y aprendizajes.
+8. Aplicación de encuesta final o grupo focal.
 
 ### 4. Observación del taller
 
@@ -164,6 +173,8 @@ Se analizarán productos generados durante el taller, como:
 - fichas de lectura;
 - fragmentos de borradores;
 - matrices de fuentes;
+- estructuras de bóveda Obsidian;
+- páginas o prototipos Quartz;
 - declaraciones de uso de IA.
 
 El análisis no buscará calificar la calidad académica del estudiante, sino comprender cómo la IA interviene en el proceso de producción y comunicación académica.
@@ -175,11 +186,12 @@ Los instrumentos sugeridos son:
 1. Encuesta diagnóstica inicial.
 2. Guía de taller.
 3. Plantilla de flujo de trabajo.
-4. Formato de registro de prompts y decisiones.
-5. Guía de observación.
-6. Guía de grupo focal.
-7. Matriz de análisis de productos.
-8. Consentimiento informado para participantes.
+4. Plantilla de estructura Obsidian/Quartz.
+5. Formato de registro de prompts y decisiones.
+6. Guía de observación.
+7. Guía de grupo focal.
+8. Matriz de análisis de productos.
+9. Consentimiento informado para participantes.
 
 ## Categorías de análisis provisionales
 
@@ -187,11 +199,12 @@ Los instrumentos sugeridos son:
 2. **Flujos de trabajo:** claridad, utilidad, pasos seguidos, ajustes realizados y dificultades.
 3. **Investigación académica:** búsqueda, lectura, fuentes, matriz, pregunta y objetivos.
 4. **Escritura académica:** borrador, edición, argumentación, estructura, estilo y citas.
-5. **Mediación profesor-estudiante:** transparencia, confianza, normas, retroalimentación y criterios de evaluación.
+5. **Mediación entre pares y docentes:** transparencia, confianza, normas, retroalimentación y criterios de evaluación.
 6. **Autoría:** qué hizo el estudiante, qué hizo la IA, cómo se documenta y cómo se declara.
 7. **Verificación:** fuentes reales, datos inventados, citas falsas, contrastación y lectura crítica.
-8. **Ética:** plagio, privacidad, sesgos, dependencia, responsabilidad y uso transparente.
-9. **Producción comunicativa:** adaptación del mensaje, audiencia, tono, formato y circulación de contenidos.
+8. **Ética y privacidad:** plagio, datos personales, sesgos, dependencia, responsabilidad y publicación selectiva.
+9. **Publicación académica digital:** organización en Obsidian, navegabilidad, visibilidad, enlaces, Quartz y GitHub Pages.
+10. **Producción comunicativa:** adaptación del mensaje, audiencia, tono, formato y circulación de contenidos.
 
 ## Estrategia de análisis
 
@@ -207,7 +220,7 @@ El análisis buscará comparar:
 
 ## Alcance
 
-El alcance del estudio será **exploratorio y situado**. No pretende generalizar los resultados a toda la Universidad de Antioquia ni a todos los estudiantes universitarios. Su aporte será diseñar y analizar una experiencia piloto que permita comprender cómo estudiantes de Comunicaciones se apropian de flujos de trabajo con IA generativa y qué orientaciones pueden derivarse para un uso crítico y transparente.
+El alcance del estudio será **exploratorio y situado**. No pretende generalizar los resultados a toda la Universidad de Antioquia ni a todos los estudiantes universitarios. Su aporte será diseñar y analizar una experiencia piloto que permita comprender cómo compañeros de trabajo de grado se apropian de flujos de trabajo con IA generativa y de una estructura Obsidian/Quartz para organizar, escribir y comunicar sus investigaciones.
 
 ## Consideraciones éticas
 
@@ -216,6 +229,8 @@ El alcance del estudio será **exploratorio y situado**. No pretende generalizar
 - Se solicitará consentimiento informado.
 - Los nombres de participantes serán anonimizados.
 - Los productos del taller solo se usarán con autorización.
+- Cada participante decidirá qué partes de su investigación pueden publicarse y cuáles deben permanecer privadas.
+- No se publicarán datos sensibles, entrevistas completas ni documentos internos sin permiso.
 - No se evaluará académicamente a los participantes.
 - Se evitará recolectar datos personales innecesarios.
 - Se explicará que la IA puede producir errores, sesgos o información falsa.
@@ -231,14 +246,16 @@ El alcance del estudio será **exploratorio y situado**. No pretende generalizar
 ### Mes 2: Diagnóstico y diseño
 
 - Aplicar encuesta diagnóstica.
-- Analizar necesidades de estudiantes.
-- Diseñar los flujos de trabajo.
+- Analizar necesidades de los compañeros de trabajo de grado.
+- Diseñar los flujos de trabajo con IA.
+- Diseñar la plantilla Obsidian/Quartz.
 - Validar instrumentos con asesor o docente.
 
 ### Mes 3: Implementación piloto
 
-- Realizar taller o experiencia piloto.
-- Recoger productos, prompts y registros.
+- Realizar taller 1 sobre IA, investigación y escritura.
+- Realizar taller 2 sobre Obsidian, Quartz y publicación.
+- Recoger productos, prompts, registros y prototipos.
 - Hacer observación del proceso.
 
 ### Mes 4: Grupo focal y análisis
@@ -259,22 +276,22 @@ El alcance del estudio será **exploratorio y situado**. No pretende generalizar
 - Ajustar conclusiones.
 - Revisar APA.
 - Preparar anexos.
-- Diseñar versión final de la guía de flujos de trabajo.
+- Diseñar versión final del kit de flujos de trabajo y publicación Obsidian/Quartz.
 - Entregar documento final.
 
 ## Versión mínima viable
 
 Si el tiempo se reduce, la versión mínima viable sería:
 
-- 8 estudiantes participantes;
+- 4 a 6 compañeros de trabajo de grado;
 - 1 encuesta diagnóstica breve;
-- 1 taller de 2 horas;
+- 2 talleres: uno de IA para investigación/escritura y otro de Obsidian/Quartz;
 - 1 grupo focal;
-- análisis de productos del taller;
-- guía final de flujos de trabajo.
+- análisis de productos del taller: notas, prompts, estructuras Obsidian y prototipos Quartz;
+- kit final de flujos de trabajo y publicación académica.
 
 Con esta versión ya se puede construir un trabajo de grado serio, viable y coherente con Comunicaciones.
 
 ---
 
-_Relacionado con: [[investigacion]] | [[notas/flujos-trabajo-ia-comunicaciones]] | [[estado-del-arte]]_
+_Relacionado con: [[investigacion]] | [[notas/flujos-trabajo-ia-comunicaciones]] | [[notas/muestra-companeros-quartz]] | [[estado-del-arte]]_

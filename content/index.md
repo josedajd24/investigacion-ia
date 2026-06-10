@@ -7,13 +7,13 @@ title: Inicio
 Estudiante de Comunicaciones — Universidad de Antioquia  
 Trabajo de grado sobre inteligencia artificial generativa, comunicación académica y mediación profesor-estudiante.
 
-**Tema de investigación actualizado:** Flujos de trabajo con inteligencia artificial generativa como mediación comunicativa en procesos de investigación, escritura académica y enseñanza-aprendizaje en estudiantes de la Facultad de Comunicaciones de la Universidad de Antioquia.
+**Tema de investigación actualizado:** Flujos de trabajo con inteligencia artificial generativa y publicación en Obsidian/Quartz como mediación comunicativa en procesos de investigación, escritura académica y trabajo de grado en estudiantes de la Facultad de Comunicaciones de la Universidad de Antioquia.
 
 ---
 
 ## Pregunta guía
 
-**¿Cómo pueden los flujos de trabajo con inteligencia artificial generativa fortalecer los procesos de investigación, escritura académica y mediación comunicativa entre estudiantes y docentes de la Facultad de Comunicaciones de la Universidad de Antioquia?**
+**¿Cómo contribuyen los flujos de trabajo con inteligencia artificial generativa y la publicación en Obsidian/Quartz al fortalecimiento de los procesos de investigación, escritura académica y comunicación del trabajo de grado en estudiantes de la Facultad de Comunicaciones de la Universidad de Antioquia?**
 
 ---
 
@@ -27,12 +27,14 @@ Trabajo de grado sobre inteligencia artificial generativa, comunicación académ
 | Estado del Arte            | En ajuste     |
 | Marco Teórico              | En Curso      |
 | Marco Metodológico         | Actualizado   |
+| Muestra de compañeros      | Definida      |
+| Kit Obsidian/Quartz        | En diseño     |
 | Flujos de trabajo IA       | En diseño     |
 | Referencias                | En Curso      |
 
 - Fuentes bibliográficas recopiladas: 44
-- Enfoque actual: estudiantes universitarios de la Facultad de Comunicaciones
-- Producto esperado: guía de flujos de trabajo con IA generativa para investigación, escritura académica y comunicación profesor-estudiante.
+- Enfoque actual: compañeros de trabajo de grado de la Facultad de Comunicaciones
+- Producto esperado: kit de flujos de trabajo con IA generativa y publicación académica en Obsidian/Quartz.
 
 ---
 
@@ -40,6 +42,8 @@ Trabajo de grado sobre inteligencia artificial generativa, comunicación académ
 
 - [[investigacion|Investigación]] — Planteamiento, pregunta y objetivos actualizados
 - [[marco-metodologico|Marco Metodológico]] — Diseño cualitativo aplicado y experiencia piloto
+- [[notas/muestra-companeros-quartz|Muestra con compañeros y Quartz]] — Decisión metodológica y producto aplicado
+- [[notas/kit-quartz-companeros|Kit Obsidian + Quartz]] — Estructura para que compañeros publiquen su investigación
 - [[notas/flujos-trabajo-ia-comunicaciones|Flujos de trabajo con IA para Comunicaciones]] — Propuesta aplicada
 - [[estado-del-arte|Estado del Arte]] — Matriz y antecedentes revisados
 - [[marco-teorico|Marco Teórico]] — Fundamentos conceptuales
