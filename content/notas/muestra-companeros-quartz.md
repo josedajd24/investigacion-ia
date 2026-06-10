@@ -14,8 +14,8 @@ La muestra puede estar conformada por **compañeros de trabajo de grado de la Fa
 
 La experiencia piloto puede consistir en acompañarlos en dos dimensiones:
 
-1. **Uso de flujos de trabajo con inteligencia artificial generativa** para investigación, lectura, escritura, verificación y producción académica.
-2. **Creación de un espacio digital de investigación con Obsidian + Quartz + GitHub Pages**, donde cada participante pueda organizar y publicar avances de su trabajo de grado.
+1. Uso de flujos de trabajo con inteligencia artificial generativa para investigación, lectura, escritura, verificación y producción académica.
+2. Creación de un espacio digital de investigación con Obsidian + Quartz + GitHub Pages, donde cada participante pueda organizar y publicar avances de su trabajo de grado.
 
 ## Nuevo enfoque aplicado
 
