@@ -30,9 +30,9 @@ Trabajo de grado sobre inteligencia artificial generativa, comunicación académ
 | Flujos de trabajo IA       | En diseño     |
 | Referencias                | En Curso      |
 
-**Fuentes bibliográficas recopiladas:** 44  
-**Enfoque actual:** estudiantes universitarios de la Facultad de Comunicaciones  
-**Producto esperado:** guía de flujos de trabajo con IA generativa para investigación, escritura académica y comunicación profesor-estudiante.
+- **Fuentes bibliográficas recopiladas:** 44
+- **Enfoque actual:** estudiantes universitarios de la Facultad de Comunicaciones
+- **Producto esperado:** guía de flujos de trabajo con IA generativa para investigación, escritura académica y comunicación profesor-estudiante.
 
 ---
 
