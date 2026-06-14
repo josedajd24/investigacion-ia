@@ -1,90 +1,127 @@
 ---
 title: Marco Teórico
+date: 2026-06-13
+tags: [marco-teorico, pensamiento-critico, ia-generativa, comunicaciones, mediacion-comunicativa]
 ---
 
 # Marco Teórico
 
-## Enfoque general
+## Orientación del marco teórico
 
-El marco teórico de esta investigación se construye desde el cruce entre **Comunicación, educación, cultura digital e inteligencia artificial generativa**. La IA no se entenderá únicamente como herramienta técnica, sino como una mediación comunicativa que interviene en la producción, circulación y validación de información académica.
+El marco teórico del proyecto se organiza alrededor de cuatro ejes: **pensamiento crítico**, **alfabetización crítica/mediática/digital**, **inteligencia artificial generativa en educación** y **mediación comunicativa**. El objetivo es evitar una lectura meramente instrumental de la IA y situarla como una mediación sociotécnica que puede apoyar o debilitar procesos de investigación, escritura, verificación y argumentación.
 
-## 1. Comunicación y mediaciones
+## 1. Pensamiento crítico
 
-### Jesús Martín-Barbero
+El pensamiento crítico se entiende como una práctica reflexiva, argumentativa y autorregulada que permite interpretar información, analizar argumentos, evaluar evidencias, inferir conclusiones, explicar decisiones y revisar el propio proceso de pensamiento.
 
-Martín-Barbero permite comprender que el análisis no debe centrarse solo en el medio o la tecnología, sino en las **mediaciones** culturales, sociales e institucionales que organizan las prácticas comunicativas. Desde esta perspectiva, la IA generativa puede analizarse como una mediación que transforma la forma en que los estudiantes preguntan, escriben, investigan y validan información.
+### Peter A. Facione
 
-### Guillermo Orozco Gómez
+Facione aporta una base operativa para observar el pensamiento crítico. El Informe Delphi identifica habilidades centrales: **interpretación, análisis, evaluación, inferencia, explicación y autorregulación**. Estas dimensiones son útiles para convertir el pensamiento crítico en categorías observables durante la experiencia piloto.
 
-Orozco aporta una mirada sobre recepción activa y mediaciones. Los estudiantes no son usuarios pasivos de la IA: interpretan, negocian, adaptan y resignifican sus respuestas según sus necesidades académicas, habilidades y contextos.
+En el proyecto, Facione permite preguntar:
 
-## 2. Comunicación educativa y diálogo
+- ¿el estudiante interpreta críticamente la respuesta de la IA?;
+- ¿analiza sus supuestos y vacíos?;
+- ¿evalúa la confiabilidad de fuentes y afirmaciones?;
+- ¿infiere conclusiones propias?;
+- ¿explica por qué acepta, modifica o rechaza una salida de IA?;
+- ¿autorregula su proceso de escritura e investigación?
+
+### Robert H. Ennis
+
+Ennis permite entender el pensamiento crítico como una combinación de habilidades y disposiciones. No basta con saber analizar: también es necesario estar dispuesto a buscar razones, considerar alternativas, verificar información y revisar creencias.
+
+En el proyecto, Ennis ayuda a observar si los estudiantes aceptan pasivamente la primera respuesta de la IA o si formulan nuevas preguntas, contrastan, dudan, corrigen y justifican sus decisiones.
+
+### Richard Paul y Linda Elder
+
+Paul y Elder proponen evaluar el razonamiento a partir de estándares intelectuales como claridad, precisión, relevancia, profundidad, lógica, amplitud y justicia. Su modelo también incorpora rasgos intelectuales como humildad, autonomía, perseverancia e integridad.
+
+En este trabajo, estos estándares pueden usarse para construir una rúbrica básica de revisión crítica de respuestas generadas por IA.
+
+### John Dewey y Matthew Lipman
+
+Dewey permite pensar el pensamiento crítico como pensamiento reflexivo vinculado a la experiencia, la indagación y la resolución de problemas. Lipman aporta la idea de comunidad de indagación, donde el pensamiento se desarrolla en diálogo, pregunta y argumentación compartida.
+
+Ambos autores son útiles para analizar los talleres o experiencias piloto como espacios de indagación, no solo como capacitación técnica en herramientas.
+
+## 2. Pedagogía crítica y alfabetización crítica
 
 ### Paulo Freire
 
-Freire permite pensar la relación profesor-estudiante desde el diálogo y la problematización. La IA generativa puede reforzar una educación bancaria si se usa para copiar respuestas, pero también puede convertirse en objeto de diálogo crítico si se usa para contrastar, preguntar, verificar y argumentar.
+Freire es central para evitar un enfoque tecnicista de la IA. Desde la pedagogía crítica, la educación no consiste en depositar respuestas sino en problematizar la realidad. La IA generativa puede reproducir una lógica bancaria si se usa para recibir respuestas listas; pero también puede convertirse en objeto de diálogo crítico si los estudiantes la interrogan, contrastan, verifican y discuten.
 
-### Mario Kaplún
+En este proyecto, Freire permite plantear que el estudiante debe seguir siendo sujeto de conocimiento. La IA no reemplaza la voz, el criterio ni la responsabilidad del estudiante: debe ser problematizada.
 
-Kaplún aporta el concepto de comunicación educativa y participación. Desde este enfoque, los flujos de trabajo con IA no deben evaluarse solo por su eficiencia, sino por su capacidad de activar procesos de comunicación, reflexión y aprendizaje.
+### Henry Giroux, Allan Luke y Hilary Janks
 
-## 3. Cultura digital, plataformas y ecología de medios
+Giroux aporta la idea de pedagogía crítica y ciudadanía; Luke y Janks ayudan a pensar la alfabetización crítica como análisis de textos, poder, representación, acceso y diseño. Estos autores permiten ampliar el pensamiento crítico hacia preguntas comunicacionales: quién produce información, desde dónde, con qué intereses, para quién, con qué efectos y bajo qué relaciones de poder.
 
-### Manuel Castells
+## 3. Alfabetización mediática, informacional y digital
 
-Castells permite ubicar la IA generativa dentro de la sociedad red, donde el acceso, procesamiento y circulación de información son centrales para la vida social y académica.
+Desde Comunicaciones, el pensamiento crítico debe conectarse con la alfabetización mediática e informacional. No se trata solo de razonar correctamente, sino de evaluar mensajes, fuentes, plataformas, algoritmos, sesgos y formas de circulación de la información.
 
-### Carlos Scolari
+### UNESCO
 
-Scolari aporta la idea de ecología de medios e hipermediaciones. Los estudiantes producen conocimiento en un ecosistema donde conviven buscadores, redes sociales, plataformas educativas, bases académicas y asistentes de IA.
+UNESCO ofrece marcos clave sobre alfabetización mediática e informacional, IA generativa en educación y competencias de IA para estudiantes. Su aporte principal para este proyecto es sostener que la formación en IA debe incluir juicio crítico, ética, ciudadanía, inclusión, responsabilidad y comprensión de límites.
 
-### José van Dijck
+### David Buckingham, Douglas Kellner, Jeff Share y Renee Hobbs
 
-Van Dijck permite analizar la IA como parte de la plataformización de la educación. Herramientas como ChatGPT, Gemini o Copilot no son neutrales: pertenecen a infraestructuras privadas, trabajan con datos y condicionan prácticas de producción de conocimiento.
+Estos autores conectan alfabetización mediática con análisis de poder, representación, producción de mensajes y ciudadanía digital. Son útiles para una tesis de Comunicaciones porque permiten estudiar la IA generativa no solo como tecnología educativa, sino como parte de un ecosistema mediático donde se producen y validan mensajes.
 
-### Nick Couldry y Ulises Mejias
+### Henry Jenkins, Sonia Livingstone, Lankshear y Knobel
 
-Couldry y Mejias aportan una mirada crítica sobre colonialismo de datos. Su perspectiva ayuda a preguntar qué ocurre con los datos, las interacciones y los procesos académicos cuando se trasladan a plataformas de IA.
+Jenkins aporta la cultura participativa; Livingstone permite pensar riesgos, oportunidades y mediaciones digitales; Lankshear y Knobel entienden las nuevas literacidades como prácticas sociales. Estas perspectivas ayudan a ubicar los flujos de trabajo con IA dentro de prácticas digitales reales de estudiantes universitarios.
 
-## 4. Apropiación tecnológica y alfabetización crítica
+## 4. Inteligencia artificial generativa en educación
 
-### Mark Warschauer
+La IA generativa debe entenderse como una tecnología sociotécnica que transforma procesos de producción de conocimiento, evaluación, escritura, autoría y mediación pedagógica.
 
-Warschauer permite comprender que la brecha digital no se reduce al acceso a dispositivos. Importan las capacidades, instituciones, contenidos, habilidades y usos significativos. Este enfoque es clave para analizar si los estudiantes usan IA de forma instrumental o crítica.
+### UNESCO, Miao y Holmes
 
-### Sonia Livingstone
+La guía de UNESCO sobre IA generativa en educación e investigación y el marco de competencias de IA para estudiantes permiten justificar la necesidad de formar usuarios críticos, éticos y responsables. En este proyecto, esas fuentes sostienen la importancia de verificar respuestas, reconocer sesgos, declarar usos y conservar agencia humana.
 
-Livingstone aporta elementos sobre alfabetización mediática, riesgos y oportunidades digitales. Su enfoque permite pensar qué competencias necesitan los estudiantes para usar IA de forma crítica, ética y segura.
+### Wayne Holmes, Rose Luckin y Neil Selwyn
 
-### Henry Jenkins
+Holmes y Luckin ayudan a pensar la IA como apoyo pedagógico y no como sustitución del juicio humano. Selwyn aporta una mirada crítica contra el solucionismo tecnológico: la IA no es neutral ni automáticamente beneficiosa; está atravesada por poder, desigualdad, automatización, intereses institucionales y consecuencias no previstas.
 
-Jenkins ayuda a comprender la producción participativa y la cultura de la convergencia. En este trabajo, la IA puede entenderse como una herramienta que amplía posibilidades de producción comunicativa, siempre que se acompañe de alfabetización crítica.
+### Williamson, Eynon, Dignum y Floridi
 
-## 5. Inteligencia artificial generativa y educación
+Williamson y Eynon permiten analizar la dataficación y la gobernanza algorítmica en educación. Dignum y Floridi aportan elementos éticos sobre IA responsable, transparencia, responsabilidad, información y agencia humana.
 
-Este eje se apoyará en autores e instituciones como UNESCO, Holmes, Selwyn, Kasneci, Lo, Tlili, Celik y otros estudios recientes sobre IA generativa en educación superior.
+## 5. Mediación comunicativa
 
-Conceptos clave:
+Desde Jesús Martín-Barbero, una tecnología no debe analizarse solo como medio o herramienta, sino desde las mediaciones sociales, culturales e institucionales que organizan sus usos. En este proyecto, la IA generativa se entiende como mediación comunicativa porque interviene en la forma en que los estudiantes preguntan, leen, verifican, escriben, argumentan y presentan conocimiento ante docentes y pares.
 
-- IA generativa;
-- modelos de lenguaje;
-- escritura académica asistida;
-- verificación de información;
-- autoría y transparencia;
-- integridad académica;
-- mediación profesor-estudiante;
-- apropiación crítica.
+El giro hacia pensamiento crítico permite precisar esta mediación: la IA puede mediar el pensamiento del estudiante de dos formas. Puede empobrecerlo si sustituye la lectura, la duda, la verificación y la argumentación; o puede fortalecerlo si se integra en flujos de trabajo que exigen contrastar, explicar, justificar, corregir y declarar decisiones.
 
-## Articulación conceptual del proyecto
+## 6. Articulación conceptual del proyecto
 
-La investigación puede articularse así:
+La investigación parte de esta idea:
 
-1. **Martín-Barbero y Scolari** ayudan a entender la IA como mediación dentro de una ecología de medios.
-2. **Freire y Kaplún** permiten analizar la relación profesor-estudiante desde el diálogo y la comunicación educativa.
-3. **van Dijck, Couldry y Mejias** permiten problematizar plataformas, datos y poder.
-4. **Warschauer, Livingstone y Jenkins** ayudan a pensar apropiación tecnológica, alfabetización crítica y producción comunicativa.
-5. **UNESCO, Holmes, Selwyn y Kasneci** conectan estos debates con IA generativa y educación.
+> La IA generativa no fortalece el pensamiento crítico por sí misma. Puede contribuir a él cuando se integra en flujos de trabajo que obligan al estudiante a preguntar, contrastar, verificar, argumentar, reconocer límites y asumir responsabilidad sobre su producción académica.
+
+Por tanto, el marco teórico articula:
+
+- pensamiento crítico como habilidad y disposición;
+- alfabetización crítica como lectura de poder, ideología y representación;
+- alfabetización mediática/digital como evaluación y producción responsable de información;
+- IA generativa como mediación sociotécnica;
+- comunicación académica como práctica de producción, validación y circulación de conocimiento.
+
+## Autores base para continuar
+
+- Facione — habilidades de pensamiento crítico.
+- Ennis — habilidades y disposiciones críticas.
+- Paul y Elder — estándares intelectuales y rasgos del pensamiento crítico.
+- Dewey — pensamiento reflexivo e indagación.
+- Lipman — comunidad de indagación.
+- Freire — pedagogía crítica y concientización.
+- Giroux, Luke y Janks — alfabetización crítica.
+- UNESCO, Buckingham, Kellner, Share, Hobbs, Jenkins y Livingstone — alfabetización mediática, informacional y digital.
+- Holmes, Luckin, Selwyn, Williamson, Eynon, Dignum y Floridi — IA en educación, ética y crítica sociotécnica.
+- Martín-Barbero — mediaciones comunicativas.
 
 ---
 
-_Relacionado con: [[investigacion]] | [[marco-metodologico]] | [[estado-del-arte]] | [[notas/flujos-trabajo-ia-comunicaciones]]_
+_Relacionado con: [[investigacion]] | [[anteproyecto]] | [[estado-del-arte]] | [[referencias/index]] | [[notas/reenfoque-pensamiento-critico-ia-generativa]]_

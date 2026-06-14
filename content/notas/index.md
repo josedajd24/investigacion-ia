@@ -14,3 +14,8 @@ Usa los tags para navegar: #ia-generativa #educacion-superior #comunicaciones #m
 - [[kit-quartz-companeros|Kit Obsidian + Quartz para compañeros de trabajo de grado]]
 - [[flujos-trabajo-ia-comunicaciones|Flujos de trabajo con IA para Comunicaciones]]
 - [[preguntas-investigacion-colegios-publicos-ia-comunicaciones|Preguntas de investigación — IA, colegios públicos y comunicaciones]] *(antecedente de enfoque; ya no es el enfoque principal)*
+
+## Decisiones recientes del proyecto
+
+- [[reenfoque-pensamiento-critico-ia-generativa|Reenfoque del proyecto — pensamiento crítico e IA generativa]]
+- [[linea-anterior-flujos-ia-investigacion-escritura|Línea anterior del proyecto — flujos de IA, investigación y escritura académica]]

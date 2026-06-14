@@ -12,10 +12,12 @@ tags: [metodologia, muestra, quartz, obsidian, trabajo-de-grado, ia-generativa, 
 
 La muestra puede estar conformada por **compañeros de trabajo de grado de la Facultad de Comunicaciones** que estén desarrollando sus propios proyectos de investigación. Esta decisión es metodológicamente viable porque todos comparten una necesidad común: organizar información, construir estado del arte, escribir avances, gestionar referencias, documentar decisiones metodológicas y comunicar su proceso investigativo.
 
-La experiencia piloto puede consistir en acompañarlos en dos dimensiones:
+La experiencia piloto puede acompañarlos en dos dimensiones:
 
 1. Uso de flujos de trabajo con inteligencia artificial generativa para investigación, lectura, escritura, verificación y producción académica.
-2. Creación de un espacio digital de investigación con Obsidian + Quartz + GitHub Pages, donde cada participante pueda organizar y publicar avances de su trabajo de grado.
+2. Documentación del proceso académico mediante Obsidian y, cuando el participante lo acepte, publicación selectiva de algunos avances con Quartz/GitHub Pages.
+
+En esta versión del proyecto, Obsidian/Quartz funciona como **apoyo metodológico** para registrar y observar el proceso. No es el centro de la pregunta de investigación.
 
 ## Nuevo enfoque aplicado
 
@@ -29,11 +31,11 @@ El proyecto no solo observaría cómo los estudiantes usan IA, sino que diseñar
 
 ## Posible formulación de la pregunta
 
-**¿Cómo contribuyen los flujos de trabajo con inteligencia artificial generativa y la publicación en Obsidian/Quartz al fortalecimiento de los procesos de investigación, escritura académica y comunicación del trabajo de grado en estudiantes de la Facultad de Comunicaciones?**
+**¿Cómo pueden los flujos de trabajo con inteligencia artificial generativa fortalecer los procesos de investigación, escritura académica y mediación comunicativa entre estudiantes y docentes de la Facultad de Comunicaciones de la Universidad de Antioquia?**
 
 ## Objetivo general ajustado
 
-**Diseñar, implementar y analizar una experiencia piloto de flujos de trabajo con inteligencia artificial generativa y publicación en Obsidian/Quartz para fortalecer procesos de investigación, escritura académica y comunicación del trabajo de grado en estudiantes de la Facultad de Comunicaciones.**
+**Diseñar, implementar y analizar flujos de trabajo con inteligencia artificial generativa orientados a fortalecer procesos de investigación, escritura académica y mediación comunicativa entre estudiantes y docentes de la Facultad de Comunicaciones de la Universidad de Antioquia.**
 
 ## Muestra propuesta
 
@@ -61,7 +63,8 @@ Para un semestre, lo ideal sería:
 
 - Ser estudiante de la Facultad de Comunicaciones.
 - Estar desarrollando trabajo de grado, anteproyecto o investigación académica.
-- Tener disposición para usar Obsidian, IA generativa y Quartz.
+- Tener disposición para usar IA generativa y registrar su proceso académico.
+- Si lo desea, usar Obsidian como apoyo de organización y Quartz como opción de publicación selectiva.
 - Aceptar participar voluntariamente.
 - Autorizar el uso académico de registros, entrevistas o productos generados.
 
@@ -69,7 +72,7 @@ Para un semestre, lo ideal sería:
 
 La experiencia permitiría analizar:
 
-- cómo organizan sus investigaciones antes y después de usar Obsidian/Quartz;
+- cómo documentan sus procesos de investigación antes y después de la experiencia piloto;
 - qué flujos de IA les resultan útiles para investigar y escribir;
 - cómo verifican fuentes generadas o sugeridas por IA;
 - cómo documentan decisiones, prompts y avances;
@@ -80,24 +83,24 @@ La experiencia permitiría analizar:
 ## Técnicas de recolección recomendadas
 
 1. **Encuesta diagnóstica inicial** sobre usos de IA, hábitos de escritura y organización de la investigación.
-2. **Taller 1:** introducción a Obsidian, estructura de notas y flujos de investigación con IA.
-3. **Taller 2:** creación o adaptación de Quartz para publicar el trabajo de grado.
+2. **Taller 1:** flujos de investigación, lectura, escritura y verificación con IA.
+3. **Taller 2:** documentación del proceso académico; uso opcional de Obsidian y publicación selectiva en Quartz.
 4. **Observación del proceso** durante los talleres.
-5. **Análisis de productos:** bóvedas, notas, matrices, prompts, sitios Quartz o prototipos.
+5. **Análisis de productos:** notas, matrices, prompts, registros de decisiones y, si existen, sitios Quartz o prototipos publicados selectivamente.
 6. **Grupo focal final** para evaluar utilidad, dificultades y aprendizajes.
 7. **Entrevista corta opcional** a un docente/asesor sobre pertinencia de la propuesta.
 
 ## Producto aplicado del proyecto
 
-El producto final podría ser un **kit de publicación académica para trabajos de grado en Comunicaciones**, compuesto por:
+El producto final podría ser un **kit de flujos de trabajo con IA generativa para trabajos de grado en Comunicaciones**, compuesto por:
 
-- plantilla de Obsidian para trabajo de grado;
-- estructura de carpetas y notas;
 - flujos de trabajo con IA para investigación y escritura;
-- guía para publicar con Quartz y GitHub Pages;
+- principios de verificación, autoría y transparencia;
 - formato de declaración de uso de IA;
-- recomendaciones éticas para publicar avances académicos;
-- ejemplos de prompts verificables.
+- plantilla de documentación del proceso académico;
+- recomendaciones éticas para registrar y, si se decide, publicar avances académicos;
+- ejemplos de prompts verificables;
+- orientación opcional para usar Obsidian/Quartz como apoyo metodológico, no como eje central del proyecto.
 
 ## Ventajas de esta muestra
 
@@ -127,4 +130,4 @@ El producto final podría ser un **kit de publicación académica para trabajos 
 
 ## Formulación metodológica breve
 
-Esta investigación trabajará con una muestra intencional de compañeros de trabajo de grado de la Facultad de Comunicaciones. A través de una experiencia piloto, se diseñarán e implementarán flujos de trabajo con inteligencia artificial generativa y una estructura de publicación académica basada en Obsidian, Quartz y GitHub Pages. La información se recogerá mediante encuesta diagnóstica, observación de talleres, análisis de productos digitales y grupo focal final. El análisis será temático y buscará comprender cómo estas herramientas fortalecen o tensionan la investigación, la escritura académica, la autoría, la verificación y la comunicación pública del proceso investigativo.
+Esta investigación trabajará con una muestra intencional de compañeros de trabajo de grado de la Facultad de Comunicaciones. A través de una experiencia piloto, se diseñarán e implementarán flujos de trabajo con inteligencia artificial generativa para investigación, escritura académica, verificación y mediación comunicativa entre estudiantes y docentes. Obsidian/Quartz se usará como recurso metodológico opcional para documentar el proceso y publicar avances seleccionados cuando exista consentimiento. La información se recogerá mediante encuesta diagnóstica, observación de talleres, análisis de productos del proceso y grupo focal final. El análisis será temático y buscará comprender cómo estas herramientas fortalecen o tensionan la investigación, la escritura académica, la autoría, la verificación y la comunicación del proceso investigativo.
