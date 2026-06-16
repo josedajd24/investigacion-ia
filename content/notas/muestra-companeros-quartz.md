@@ -6,7 +6,7 @@ tags: [metodologia, muestra, quartz, obsidian, trabajo-de-grado, ia-generativa, 
 
 # Muestra con compañeros de trabajo de grado y creación de Quartz
 
-[[notas/index|← Notas]] · Relacionado con [[investigacion]] · [[marco-metodologico]] · [[notas/flujos-trabajo-ia-comunicaciones]]
+[[notas/index|← Notas]] · Relacionado con [[investigacion]] · [[marco-metodologico]] · [[flujos-trabajo-ia-comunicaciones]]
 
 ## Decisión metodológica recomendada
 

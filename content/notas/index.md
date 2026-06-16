@@ -19,3 +19,10 @@ Usa los tags para navegar: #ia-generativa #educacion-superior #comunicaciones #m
 
 - [[reenfoque-pensamiento-critico-ia-generativa|Reenfoque del proyecto — pensamiento crítico e IA generativa]]
 - [[linea-anterior-flujos-ia-investigacion-escritura|Línea anterior del proyecto — flujos de IA, investigación y escritura académica]]
+
+## Marco teórico y autores
+
+- [[mapa-teorico-barbero-ia-generativa-mediaciones|Mapa teórico estilo Martín-Barbero para IA generativa, mediaciones y pensamiento crítico]]
+- [[../autores/index|Autores del marco teórico]]
+- [[autores-mcluhan-turkle-wiener-minsky-ia-mediacion|McLuhan, Turkle, Wiener y Minsky — IA como mediación comunicativa]]
+- [[foucault-problematizacion-diaz-marsa-lectura|Foucault y problematización — nota de lectura]]

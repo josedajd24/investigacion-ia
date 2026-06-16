@@ -265,5 +265,5 @@ Este estado del arte debe alimentar tres productos del proyecto:
 
 ---
 
-_Relacionado con: [[investigacion]] | [[marco-teorico]] | [[marco-metodologico]] | [[notas/flujos-trabajo-ia-comunicaciones]] | [[referencias/index]]_
+_Relacionado con: [[investigacion]] | [[marco-teorico]] | [[marco-metodologico]] | [[flujos-trabajo-ia-comunicaciones]] | [[referencias/index]]_
 

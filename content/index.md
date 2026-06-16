@@ -47,6 +47,6 @@ Trabajo de grado sobre inteligencia artificial generativa, pensamiento crítico,
 - [[marco-metodologico|Marco Metodológico]] — Diseño cualitativo aplicado y experiencia piloto
 - [[notas/reenfoque-pensamiento-critico-ia-generativa|Reenfoque pensamiento crítico + IA generativa]] — Nota de decisión conceptual
 - [[notas/linea-anterior-flujos-ia-investigacion-escritura|Línea anterior archivada]] — Registro histórico del enfoque previo
-- [[notas/flujos-trabajo-ia-comunicaciones|Flujos de trabajo con IA para Comunicaciones]] — Propuesta aplicada
-- [[notas/muestra-companeros-quartz|Muestra con compañeros y documentación metodológica]] — Decisión metodológica
+- [[flujos-trabajo-ia-comunicaciones|Flujos de trabajo con IA para Comunicaciones]] — Propuesta aplicada
+- [[muestra-companeros-quartz|Muestra con compañeros y documentación metodológica]] — Decisión metodológica
 - [[referencias/index|Referencias]] — Bibliografía anotada

@@ -111,17 +111,31 @@ Por tanto, el marco teórico articula:
 
 ## Autores base para continuar
 
-- Facione — habilidades de pensamiento crítico.
-- Ennis — habilidades y disposiciones críticas.
-- Paul y Elder — estándares intelectuales y rasgos del pensamiento crítico.
-- Dewey — pensamiento reflexivo e indagación.
-- Lipman — comunidad de indagación.
-- Freire — pedagogía crítica y concientización.
-- Giroux, Luke y Janks — alfabetización crítica.
-- UNESCO, Buckingham, Kellner, Share, Hobbs, Jenkins y Livingstone — alfabetización mediática, informacional y digital.
-- Holmes, Luckin, Selwyn, Williamson, Eynon, Dignum y Floridi — IA en educación, ética y crítica sociotécnica.
-- Martín-Barbero — mediaciones comunicativas.
+El desarrollo del marco teórico queda organizado en fichas individuales para que cada autor tenga una función clara dentro de la investigación. Ver índice completo: [[autores/index|Autores del marco teórico]].
+
+### Columna vertebral
+
+- [[autores/jesus-martin-barbero|Jesús Martín-Barbero]] — mediaciones comunicativas.
+- [[autores/paulo-freire|Paulo Freire]] — educación problematizadora y sujeto crítico.
+- [[autores/david-buckingham|David Buckingham]] y [[autores/renee-hobbs|Renee Hobbs]] — alfabetización mediática/digital crítica.
+- [[autores/peter-facione|Peter A. Facione]], [[autores/robert-ennis|Robert H. Ennis]] y [[autores/paul-elder|Richard Paul y Linda Elder]] — categorías operativas de pensamiento crítico.
+- [[autores/sherry-turkle|Sherry Turkle]] y [[autores/neil-selwyn|Neil Selwyn]] — interacción humano-máquina, dependencia y crítica del solucionismo tecnológico.
+- [[autores/norbert-wiener|Norbert Wiener]], [[autores/luciano-floridi|Luciano Floridi]] y [[autores/virginia-dignum|Virginia Dignum]] — retroalimentación, responsabilidad humana y ética de IA.
+
+### Autores de soporte fuerte
+
+- [[autores/marshall-mcluhan|Marshall McLuhan]], [[autores/carlos-scolari|Carlos A. Scolari]], [[autores/guillermo-orozco-gomez|Guillermo Orozco Gómez]] y [[autores/nestor-garcia-canclini|Néstor García Canclini]] — medios, hipermediaciones, recepción activa y apropiación cultural.
+- [[autores/unesco|UNESCO / Miao y Holmes]], [[autores/allan-luke|Allan Luke]], [[autores/hilary-janks|Hilary Janks]] y [[autores/douglas-kellner-jeff-share|Kellner y Share]] — alfabetización crítica, mediática e IA.
+- [[autores/kate-crawford|Kate Crawford]], [[autores/safiya-noble|Safiya Umoja Noble]] y [[autores/couldry-mejias|Couldry y Mejias]] — sesgos, datos, poder e infraestructuras de IA.
+
+### Autores para profundidad o discusión
+
+- [[autores/michel-foucault|Michel Foucault]] — problematización y condiciones de verdad.
+- [[autores/bernard-stiegler|Bernard Stiegler]] — IA como *pharmakon*: remedio y veneno.
+- [[autores/andrew-feenberg|Andrew Feenberg]] — diseño crítico y ambivalencia tecnológica.
+- [[autores/bruno-latour|Bruno Latour]] — agencia distribuida y redes sociotécnicas.
+- [[autores/marvin-minsky|Marvin Minsky]] — antecedente histórico de IA y representación de la mente.
 
 ---
 
-_Relacionado con: [[investigacion]] | [[anteproyecto]] | [[estado-del-arte]] | [[referencias/index]] | [[notas/reenfoque-pensamiento-critico-ia-generativa]]_
+_Relacionado con: [[investigacion]] | [[anteproyecto]] | [[estado-del-arte]] | [[referencias/index]] | [[autores/index]] | [[notas/reenfoque-pensamiento-critico-ia-generativa]]_

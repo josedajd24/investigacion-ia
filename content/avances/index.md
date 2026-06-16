@@ -8,6 +8,11 @@ Bitácora cronológica del progreso. Cada entrada documenta qué se hizo, qué s
 
 ---
 
+## 2026-06-14 — Avance de formulación del proyecto TDG según rúbrica
+
+- [[avance-formulacion-proyecto-tdg-rubrica|Avance de formulación del proyecto de investigación TDG]]
+- Incluye encabezado solicitado, formulación del problema, antecedentes/estado de la cuestión, objetivos, marco teórico preliminar y avance de bibliografía APA 7.
+
 <!-- Las entradas van aquí, de más reciente a más antigua -->
 <!-- Ejemplo de cómo agregar una entrada:
 
