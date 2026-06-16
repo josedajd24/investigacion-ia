@@ -30,7 +30,7 @@ La brecha investigativa que justifica este proyecto es la siguiente: aunque la l
 
 ## Pregunta de investigación
 
-**¿Cómo se configuran las mediaciones comunicativas y qué tensiones y potencialidades emergen cuando estudiantes de trabajo de grado de la Facultad de Comunicaciones de la Universidad de Antioquia incorporan flujos de trabajo con inteligencia artificial generativa en sus procesos de investigación y escritura académica orientados al ejercicio del pensamiento crítico?**
+**¿De qué manera los flujos de trabajo con inteligencia artificial generativa median en el pensamiento crítico durante los procesos de investigación y escritura académica de estudiantes de trabajo de grado de la Facultad de Comunicaciones de la Universidad de Antioquia?**
 
 ## Preguntas complementarias
 
