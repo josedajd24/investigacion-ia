@@ -15,7 +15,9 @@ Usa los tags para navegar: #ia-generativa #educacion-superior #comunicaciones #m
 
 ## Decisiones recientes del proyecto
 
-- [[reenfoque-pensamiento-critico-ia-generativa|Reenfoque del proyecto — pensamiento crítico e IA generativa]]
+- [[integracion-foucault-ia-agentica-pensamiento-critico|Integración conceptual — Foucault, IA agéntica y pensamiento crítico]]
+- [[flujo-notebooklm|Flujo NotebookLM]]
+
 ## Marco teórico y autores
 
 - [[mapa-teorico-barbero-ia-generativa-mediaciones|Mapa teórico estilo Martín-Barbero para IA generativa, mediaciones y pensamiento crítico]]

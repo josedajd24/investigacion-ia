@@ -102,4 +102,3 @@ No se recomienda modificar todos los archivos sin confirmar primero la pregunta 
 - [[articulos/agentes-ia-mediadores-comunicativos]]
 - [[articulos/inversion-humano-ia-agentica]]
 - [[notas/foucault-problematizacion-diaz-marsa-lectura]]
-- [[notas/asesor-problematizacion-pregunta-investigacion]]

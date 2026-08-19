@@ -103,7 +103,7 @@ La contribución principal será mostrar cómo un diseño metodológico basado e
 
 ## Matriz complementaria
 
-- [[referencias/matriz_pensamiento_critico_ia_generativa|Matriz — pensamiento crítico e IA generativa]]
+- [[Matriz de estudios del Estado del Arte|Matriz depurada del estado del arte]]
 
 ## Fuentes clave añadidas para la línea pensamiento crítico + IA
 

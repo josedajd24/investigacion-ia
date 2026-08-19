@@ -79,4 +79,4 @@ Obsidian/Quartz se usará como apoyo metodológico opcional para organizar notas
 
 ---
 
-_Secciones relacionadas: [[anteproyecto]] | [[marco-teorico]] | [[marco-metodologico]] | [[estado-del-arte]] | [[notas/reenfoque-pensamiento-critico-ia-generativa]] | [[notas/linea-anterior-flujos-ia-investigacion-escritura]]_
+_Secciones relacionadas: [[anteproyecto]] | [[marco-teorico]] | [[marco-metodologico]] | [[estado-del-arte]] | [[notas/index]]_

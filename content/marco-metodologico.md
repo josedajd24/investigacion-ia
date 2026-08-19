@@ -232,4 +232,4 @@ El estudio tendrá un alcance exploratorio y situado. No pretende generalizar su
 
 ---
 
-_Relacionado con: [[investigacion]] | [[anteproyecto]] | [[notas/index]] | [[notas/reenfoque-pensamiento-critico-ia-generativa]]_
+_Relacionado con: [[investigacion]] | [[anteproyecto]] | [[notas/index]]_

@@ -13,7 +13,7 @@ tags: [anteproyecto, trabajo-de-grado, ia-generativa, pensamiento-critico, comun
 **Modalidad:** Anteproyecto de trabajo de grado  
 **Fecha:** 2026
 
-> Esta versión actualiza el anteproyecto hacia la línea final centrada en pensamiento crítico. La versión anterior queda preservada en [[notas/linea-anterior-flujos-ia-investigacion-escritura]].
+> Esta versión actualiza el anteproyecto hacia la línea final centrada en pensamiento crítico. El registro histórico del enfoque previo queda preservado en el historial de versiones del repositorio.
 
 ## Resumen
 

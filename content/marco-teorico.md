@@ -138,4 +138,4 @@ El desarrollo del marco teórico queda organizado en fichas individuales para qu
 
 ---
 
-_Relacionado con: [[investigacion]] | [[anteproyecto]] | [[estado-del-arte]] | [[referencias/index]] | [[autores/index]] | [[notas/reenfoque-pensamiento-critico-ia-generativa]]_
+_Relacionado con: [[investigacion]] | [[anteproyecto]] | [[estado-del-arte]] | [[referencias/index]] | [[autores/index]]_

@@ -6,7 +6,7 @@ tags: [obsidian, quartz, github-pages, trabajo-de-grado, metodologia, comunicaci
 
 # Kit Obsidian + Quartz para compañeros de trabajo de grado
 
-[[notas/index|← Notas]] · Relacionado con [[muestra-companeros-quartz]] · [[marco-metodologico]]
+[[notas/index|← Notas]] · Relacionado con [[marco-metodologico]]
 
 ## Objetivo del kit
 

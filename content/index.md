@@ -40,13 +40,20 @@ Trabajo de grado sobre inteligencia artificial generativa, pensamiento crítico,
 
 ## Navegación rápida
 
+### Documentos del proyecto
 - [[anteproyecto|Anteproyecto APA]] — Documento integrado del anteproyecto de trabajo de grado
 - [[investigacion|Investigación]] — Planteamiento, pregunta y objetivos actualizados
-- [[estado-del-arte|Estado del Arte]] — Antecedentes revisados y nueva línea IA + pensamiento crítico
+- [[estado-del-arte|Estado del Arte]] — Antecedentes revisados y línea IA + pensamiento crítico
 - [[marco-teorico|Marco Teórico]] — Fundamentos conceptuales
 - [[marco-metodologico|Marco Metodológico]] — Diseño cualitativo aplicado y experiencia piloto
-- [[notas/reenfoque-pensamiento-critico-ia-generativa|Reenfoque pensamiento crítico + IA generativa]] — Nota de decisión conceptual
-- [[notas/linea-anterior-flujos-ia-investigacion-escritura|Línea anterior archivada]] — Registro histórico del enfoque previo
-- [[flujos-trabajo-ia-comunicaciones|Flujos de trabajo con IA para Comunicaciones]] — Propuesta aplicada
-- [[muestra-companeros-quartz|Muestra con compañeros y documentación metodológica]] — Decisión metodológica
-- [[referencias/index|Referencias]] — Bibliografía anotada
+
+### Artículos y notas recientes
+- [[articulos/index|Artículos]] — Ensayos con argumentación completa
+- [[articulos/agentes-ia-mediadores-comunicativos|Agentes de IA como mediadores comunicativos]] — Borrador actual
+- [[articulos/inversion-humano-ia-agentica|La inversión del humano y la IA agéntica]] — Borrador actual
+- [[notas/integracion-foucault-ia-agentica-pensamiento-critico|Integración — Foucault, IA agéntica y pensamiento crítico]] — Nota conceptual
+- [[notas/flujo-notebooklm|Flujo NotebookLM]] — Flujo de trabajo de investigación
+
+### Referencias
+- [[referencias/Matriz de estudios del Estado del Arte|Matriz de estudios del Estado del Arte]] — Matriz depurada
+- [[referencias/index|Referencias]] — Bibliografía anotada y fichas de investigaciones clave
