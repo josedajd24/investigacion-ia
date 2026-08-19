@@ -246,7 +246,7 @@ La brecha del proyecto puede formularse así:
 
 ## Matriz depurada y archivos relacionados
 
-- [[referencias/matriz_estado_del_arte_ia_generativa_comunicaciones|Matriz depurada en Markdown]]
+- [[Matriz de estudios del Estado del Arte|Matriz depurada en Markdown]]
 - [[referencias/investigaciones-clave/index|Fichas de las 10 investigaciones clave]]
 - Excel: `content/referencias/matriz_estado_del_arte_ia_generativa_comunicaciones.xlsx`
 - CSV: `content/referencias/matriz_estado_del_arte_ia_generativa_comunicaciones.csv`

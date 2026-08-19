@@ -57,4 +57,4 @@ DOI verificado; Crossref también registra versión OSF como preprint.
 
 ---
 
-Relacionado con: [[../../estado-del-arte|Estado del Arte]] · [[../matriz_estado_del_arte_ia_generativa_comunicaciones|Matriz depurada]] · [[../../investigacion|Investigación]]
+Relacionado con: [[../../estado-del-arte|Estado del Arte]] · [[Matriz de estudios del Estado del Arte|Matriz depurada]] · [[../../investigacion|Investigación]]
