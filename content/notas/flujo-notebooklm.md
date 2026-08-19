@@ -1,5 +1,5 @@
 ---
-title: Flujo NotebookLM + Obsidian + Jarvis
+title: Flujo NotebookLM
 tags:
   - tesis
   - ia-generativa
@@ -9,9 +9,9 @@ tags:
   - metodología
 ---
 
-# Flujo NotebookLM + Obsidian + Jarvis
+# Flujo NotebookLM 
 
-> Objetivo: usar NotebookLM como espacio de conversación con fuentes y usar Jarvis/Obsidian como sistema de organización, escritura académica y trazabilidad del trabajo de grado.
+> Objetivo: usar NotebookLM como espacio de conversación con fuentes 
 
 ## 1. Principio de arquitectura
 

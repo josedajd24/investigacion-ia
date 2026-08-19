@@ -156,15 +156,6 @@ La IA generativa se entiende como una tecnología sociotécnica capaz de produci
 
 Holmes, Luckin, Williamson, Eynon, Dignum y Floridi permiten analizar la IA desde una perspectiva ética y sociotécnica. Para este proyecto, la IA no será evaluada como sustituto del docente ni del estudiante, sino como una mediación que debe ser situada, interrogada y regulada mediante prácticas de verificación, documentación y declaración.
 
-### 4.5. Mediación comunicativa
-
-Desde Martín-Barbero, una tecnología no debe analizarse únicamente como canal o herramienta, sino desde las mediaciones sociales, culturales e institucionales que organizan sus usos. En esta investigación, la IA generativa se entiende como mediación comunicativa porque interviene en la forma en que los estudiantes preguntan, leen, verifican, escriben, argumentan y presentan conocimiento ante docentes y pares.
-
-El concepto de mediación permite comprender que la IA no actúa sola. Sus efectos dependen de los prompts formulados, las fuentes consultadas, las reglas académicas, las expectativas docentes, las competencias del estudiante, las condiciones de acceso y los criterios de validación. Por eso, el proyecto propone estudiar flujos de trabajo: secuencias organizadas de acciones donde la IA se usa, se cuestiona, se verifica, se corrige y se declara.
-
-### 4.6. Articulación conceptual
-
-La idea central del marco teórico es que la IA generativa no fortalece el pensamiento crítico por sí misma. Puede contribuir a él cuando se integra en flujos de trabajo que obligan al estudiante a preguntar, contrastar, verificar, argumentar, reconocer límites y asumir responsabilidad sobre su producción académica. En consecuencia, el proyecto articula pensamiento crítico como habilidad y disposición; alfabetización crítica como lectura de poder y representación; alfabetización mediática/digital como evaluación de información; IA generativa como mediación sociotécnica; y comunicación académica como práctica de producción, validación y circulación de conocimiento.
 
 ---
 
@@ -229,8 +220,4 @@ La idea central del marco teórico es que la IA generativa no fortalece el pensa
 
 ---
 
-## Nota para continuar el documento completo
 
-Para la entrega final de formulación del proyecto, después de este avance deben completarse y ajustar las siguientes secciones de la rúbrica: metodología, cronograma, presupuesto y bibliografía/cibergrafía completa. La metodología ya cuenta con una base preliminar en la nota [[marco-metodologico]], pero no se desarrolla aquí porque el avance solicitado por el profesor llega hasta el punto 3 o 4.
-
-Relacionado con: [[anteproyecto]] · [[investigacion]] · [[estado-del-arte]] · [[marco-teorico]] · [[marco-metodologico]] · [[referencias/index]]

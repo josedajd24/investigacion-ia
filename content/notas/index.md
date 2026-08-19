@@ -9,8 +9,6 @@ Apuntes rápidos, ideas y observaciones organizadas por tags.
 Usa los tags para navegar: #ia-generativa #educacion-superior #comunicaciones #metodologia #apropiacion-tecnologica #profesor-estudiante #flujos-de-trabajo #escritura-academica #investigacion #obsidian #quartz #github-pages
 
 ## Notas creadas
-
-- [[muestra-companeros-quartz|Muestra con compañeros de trabajo de grado y creación de Quartz]]
 - [[kit-quartz-companeros|Kit Obsidian + Quartz para compañeros de trabajo de grado]]
 - [[flujos-trabajo-ia-comunicaciones|Flujos de trabajo con IA para Comunicaciones]]
 - [[preguntas-investigacion-colegios-publicos-ia-comunicaciones|Preguntas de investigación — IA, colegios públicos y comunicaciones]] *(antecedente de enfoque; ya no es el enfoque principal)*
@@ -18,8 +16,6 @@ Usa los tags para navegar: #ia-generativa #educacion-superior #comunicaciones #m
 ## Decisiones recientes del proyecto
 
 - [[reenfoque-pensamiento-critico-ia-generativa|Reenfoque del proyecto — pensamiento crítico e IA generativa]]
-- [[linea-anterior-flujos-ia-investigacion-escritura|Línea anterior del proyecto — flujos de IA, investigación y escritura académica]]
-
 ## Marco teórico y autores
 
 - [[mapa-teorico-barbero-ia-generativa-mediaciones|Mapa teórico estilo Martín-Barbero para IA generativa, mediaciones y pensamiento crítico]]

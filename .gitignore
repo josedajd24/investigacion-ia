@@ -9,3 +9,10 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+# material personal — no publicar
+*.bak*
+entregables/
+docs/superpowers/
+Banco_preguntas_*.docx
+Respuestas_y_plan_*.docx
