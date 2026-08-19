@@ -18,6 +18,13 @@ Usa los tags para navegar: #ia-generativa #educacion-superior #comunicaciones #m
 - [[integracion-foucault-ia-agentica-pensamiento-critico|Integración conceptual — Foucault, IA agéntica y pensamiento crítico]]
 - [[flujo-notebooklm|Flujo NotebookLM]]
 
+## Historial y decisiones del proyecto
+
+- [[reenfoque-pensamiento-critico-ia-generativa|Reenfoque del proyecto — pensamiento crítico e IA generativa]] — nota de decisión conceptual
+- [[linea-anterior-flujos-ia-investigacion-escritura|Línea anterior del proyecto]] — registro histórico del enfoque previo
+- [[asesor-problematizacion-pregunta-investigacion|Nota de asesoría — problematizar la pregunta de investigación]]
+- [[muestra-companeros-quartz|Muestra con compañeros y creación de Quartz]] — decisión metodológica
+
 ## Marco teórico y autores
 
 - [[mapa-teorico-barbero-ia-generativa-mediaciones|Mapa teórico estilo Martín-Barbero para IA generativa, mediaciones y pensamiento crítico]]
